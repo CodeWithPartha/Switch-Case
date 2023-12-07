@@ -1,2 +1,2 @@
-# Switch-Case
+# Switch-Case in C#
 Switch Case
